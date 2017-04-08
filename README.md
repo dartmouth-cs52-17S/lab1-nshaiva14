@@ -5,7 +5,9 @@
 * I used the checkbox hack to toggle the top right menu button in the narrow window so it would display more menu options when clicked.
 
 Original html screen cap:
+
 ![screencap](images/Site-cap.png)
 
 Top Menu Checkbox hack:
+
 ![checkboxhack](images/top-menu.png)
